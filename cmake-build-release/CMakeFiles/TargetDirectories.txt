@@ -1,0 +1,3 @@
+C:/study/cg/pbrt/cmake-build-release/CMakeFiles/pbrt.dir
+C:/study/cg/pbrt/cmake-build-release/CMakeFiles/edit_cache.dir
+C:/study/cg/pbrt/cmake-build-release/CMakeFiles/rebuild_cache.dir
